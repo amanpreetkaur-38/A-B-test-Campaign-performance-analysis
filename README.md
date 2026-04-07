@@ -133,12 +133,12 @@ An interactive Power BI dashboard was created to:
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **Python (Pandas, NumPy)** → Data cleaning & analysis  
 - **SciPy** → Statistical testing  
 - **Power BI** → Visualization & dashboard  
-- **Jupyter Notebook** → Workflow execution  
+- **Jupyter Notebook** → Workflow execution
 
 ---
 
